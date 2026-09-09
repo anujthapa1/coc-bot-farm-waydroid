@@ -112,8 +112,8 @@ sudo apt install python3 python3-pip python3-tk adb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/coc-auto-farm-waydroid.git
-   cd coc-auto-farm-waydroid
+   git clone https://github.com/anujthapa1/coc-bot-farm-waydroid.git
+   cd coc-bot-farm-waydroid
    ```
 
 2. Install Python dependencies:
